@@ -27,4 +27,4 @@ const makeCommit = (n) => {
       .push();
   });
 };
-makeCommit(100);
+makeCommit(500);
